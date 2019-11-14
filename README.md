@@ -1,5 +1,4 @@
 # Pagina-personal
-Informacion personal
 # Pagina-personal
 <html lang="en">
 <head>
@@ -7,46 +6,37 @@ Informacion personal
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="./styles/main.css">
-    <title>Pagina personal</title>
+    <title>Pagina Personal</title>
 </head>
 <body>
-
     <!-- <header>
         <div class="header">
             <ul>
-                <li><a href="">Datos personales</a></li>  
-                <li><a href=""></a></li>	 
-                <li><a href="">Conoce más</a></li>	
+                <li><a href="">Datos personales</a></li>
+                <li><a href="">Competencias</a></li>
+                <li><a href="">Conoce más</a></li>
             </ul>
         </div>
     </header> -->
-
     <section>
         <div class="body">
-            <h1>Datos personales</h1>   	
-            <div class="data">
-                <img src="C:\Users\sky\Pictures\19095436_1850446224969231_2155049335248987878_o.jpg">    
+            <h1>Datos personales</h1>  
+            <div class="data">  
                 <div class="info">
-                    <p>Apellido : Mite Ponce</p>   
+                    <p>Apellido : Mite Ponce</p>    
                     <p>Nombre: Israel Agustin</p> 		
-                    <p>Edad: 20 Años</p>		
-                    <p>Signo zodiacal: Leo</p>   
-                    <p>Github: IsraelMite</p>   	
-                    <p>StackOverflow: Israel Mite user</p> 	
-                    <p>Twitter: @miteisrael</p>  		
+                    <p>Edad: 20 años</p>		
+                    <p>Fecha de nacimiento: 30 de julio del 1999</p>
+                    <p>País de origen: Ecuador</p> 
+                    <p>Github: IsraelMite/p>   
+                    <p>StackOverflow: Israel Mite</p>
                 </div>
             </div>
-            <h1>Competencias</h1> 			
+            <h1>Competencias</h1> 				
             <div class="split">
                 <h2>Conocimientos</h2>			
-                <div class="split">
-                    <h3>Frontend</h3>							
-                    <p>Html y Css: Intermedio</p>	
-                    <p>Javascript: Intermedio</p>	
-                </div>			
-                <div class="split">
-                    <h3>Back-end</h3>				
-                    <p>Php: Amateur</p><br>			
+                <div class="split">							
+                    <p> C++: Amateur</p>	                   		
                 </div>
                 <div class="split">
                     <h3>Frameworks</h3>
@@ -54,14 +44,18 @@ Informacion personal
                     <p>Bootstrap: Amateur</p><br>
                 </div>
                 <h2>Idiomas</h2>
-                <p>Ingles: Intermedio.</p>
-                
+                <p>Ingles: Intermedio</p>               
             </div>
+        </div>
+        <h1>Comentario Personal</h1> 				
+            <div class="split">
+                <p>Lo expuesto es algo muy básico debido a que no poseo los conocimientos sucifientes para la elavoración de algo más complejo.</p>
+                
         </div>
 
     </section>
     <footer>
-        <div class="footer">     
+        <div class="footer">
         </div>
     </footer>
 
